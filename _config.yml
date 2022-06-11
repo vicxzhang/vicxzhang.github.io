@@ -44,7 +44,7 @@ social:
   email: viczx981111@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username1      # change to your twitter homepage
     - https://github.com/vicxzhang       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://s2.loli.net/2022/06/11'
+img_cdn: 'https://s2.loli.net'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/YjaFq3uNmcMygLH.jpg'
+avatar: '/2022/06/11/YjaFq3uNmcMygLH.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
