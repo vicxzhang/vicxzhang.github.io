@@ -1,0 +1,20 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == ' production
+  ' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+a.nav-link {
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.75rem;
+    font-weight: 600;
+}
