@@ -718,6 +718,7 @@ $btn-mb: 0.5rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
+    margin: auto;
 
     img {
       transition: transform 0.5s;
@@ -733,7 +734,8 @@ $btn-mb: 0.5rem;
     @extend %clickable-transition;
 
     padding-left: 2.5rem;
-    padding-right: 1.25rem;
+    padding-right: 2.5rem;
+    text-align: center;
     width: 100%;
   }
 
@@ -1518,7 +1520,7 @@ search {
     .profile-wrapper {
       margin-top: 3.5rem;
       margin-bottom: 2.5rem;
-      padding-left: 3.5rem;
+      //padding-left: 3.5rem;
     }
 
     ul {
